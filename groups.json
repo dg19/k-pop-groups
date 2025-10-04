@@ -1,17 +1,19 @@
-{
-  "Star-Makers": {
-    "members": ["Takeru", "Rin", "Sora", "Kai"],
-    "keywords": ["スターメーカーズ", "スタメ"],
-    "twitterId": "StarMakers_JP"
-  },
-  "Cosmic-Girls": {
-    "members": ["Luna", "Stella", "Nova"],
-    "keywords": ["コズミックガールズ", "コズガ"],
-    "twitterId": "CosmicGirls_info"
-  },
-  "NEO-KINGS": {
-    "members": ["Jin", "Leo", "Hyun"],
-    "keywords": ["ネオキングス"],
-    "twitterId": "NEOKINGS_staff"
+[
+  {
+    "Star-Makers": {
+      "members": ["Takeru", "Rin", "Sora", "Kai"],
+      "keywords": ["スターメーカーズ", "スタメ"],
+      "twitterId": "StarMakers_JP"
+    },
+    "Cosmic-Girls": {
+      "members": ["Luna", "Stella", "Nova"],
+      "keywords": ["コズミックガールズ", "コズガ"],
+      "twitterId": "CosmicGirls_info"
+    },
+    "NEO-KINGS": {
+      "members": ["Jin", "Leo", "Hyun"],
+      "keywords": ["ネオキングス"],
+      "twitterId": "NEOKINGS_staff"
+    }
   }
-}
+]
